@@ -15,7 +15,10 @@ include_once(SHARED_PATH . "/nav.php");
     <p>When I first started thinking of ideas, I thought maybe make this themed to make it particular. At first I thought of making it wizard themed because I thought it would be funny. Then I remembered I am at a public university and some people might be offended due to the involvement with the occult despite wizards not being real. There is a type of "magic" called chaos magic that is used by Grant Morrison and Satanists but my understanding is that it is basically ritualized wishful thinking. Again, I find this amusing because wizards aren't real things. Much of the themes in chaos magic is like the stuff in the book "The Secret". And nobody gets made about "The Secret" in regards to its occult nature. </p>
 
 </div>
-
+    <br>
+    <br>
+    <br>
+    <img id = "wizard" src= <?php echo url_for("/images/wizard.png") ?>  width = "100" height = "100" id = >
 <?php
 include(SHARED_PATH . "/footer.php");
 
